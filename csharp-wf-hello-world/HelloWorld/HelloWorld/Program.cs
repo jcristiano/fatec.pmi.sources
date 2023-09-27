@@ -16,7 +16,7 @@ namespace HelloWorld
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmCapturaKey());
+            Application.Run(new frmPrincipal());
         }
     }
 }
